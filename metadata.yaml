@@ -1,0 +1,33 @@
+_repo: Leon-Bloy-Essai-de-critique-equitable_73235
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Retté, Adolphe
+    alias: Rette, Adolphe
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '6973'
+    url: http://www.gutenberg.org/2009/agents/6973
+    wikipedia: https://fr.wikipedia.org/wiki/Adolphe_Rett%C3%A9
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73235'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=GKU4AQAAIAAJ
+pgterms:marc905: 20240314125239rett
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aParis :$bBloud et Gay, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bloy, Léon, 1846-1917 -- Criticism and interpretation'
+- !lcc 'PQ'
+- GITenberg
+title: 'Léon Bloy : Essai de critique équitable'
+url: http://www.gutenberg.org/ebooks/73235
